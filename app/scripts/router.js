@@ -1,3 +1,3 @@
-EmberDemo.Router.map(function () {
-  // Add your routes here
+Todos.Router.map(function() {
+//  this.resource('todos', { path: '/' });
 });

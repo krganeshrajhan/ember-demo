@@ -1,4 +1,4 @@
-var EmberDemo = window.EmberDemo = Ember.Application.create();
+var Todos = window.Todos = Ember.Application.create();
 
 /* Order and include as you please. */
 require('scripts/controllers/*');
